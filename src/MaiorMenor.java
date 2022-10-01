@@ -6,7 +6,7 @@ public class MaiorMenor {
         Scanner input = new Scanner (System.in);
 
         for(i = 0; i < 4; i++){
-            System.out.println("Digite um valor: ");
+            System.out.println("Digite um valor Teste: ");
             int numero = input.nextInt();
 
             if(numero > maior || i == 0){
